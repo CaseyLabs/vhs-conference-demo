@@ -155,7 +155,7 @@ main {
     margin:0 0 18px;
     color:var(--navy);
     font-family:Montserrat,Raleway,sans-serif;
-    font-size:clamp(34px,3vw,42px);
+    font-size:clamp(32px,2.67vw,38px);
     font-weight:600;
     line-height:1.22;
     letter-spacing:-.025em;
@@ -343,7 +343,7 @@ main {
         line-height:1.75
     }
     .vhs-article h1 {
-        font-size:clamp(30px,6vw,36px)
+        font-size:clamp(30px,5.5vw,34px)
     }
     .vhs-article h2 {
         margin-top:42px;
